@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-apis",
+  "version": "1.0.0",
+  "description": "Node Rest Apis with Express, Sequelize & Redis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajan Jha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^7.17.1",
+    "pg-hstore": "^2.3.3",
+    "redis": "^3.0.2",
+    "sequelize": "^5.21.3"
+  }
+}
